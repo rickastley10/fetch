@@ -1,1 +1,1 @@
-echo loading drivers; pause
+echo loading drivers; echo done; pause
