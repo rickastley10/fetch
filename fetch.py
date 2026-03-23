@@ -1,1 +1,1 @@
-print("loading drivers")
+echo loading drivers; pause
